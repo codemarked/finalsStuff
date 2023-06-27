@@ -1,0 +1,15 @@
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\bin\Debug\net6.0\FinalExamStuff.exe
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\bin\Debug\net6.0\FinalExamStuff.deps.json
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\bin\Debug\net6.0\FinalExamStuff.runtimeconfig.json
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\bin\Debug\net6.0\FinalExamStuff.dll
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\bin\Debug\net6.0\FinalExamStuff.pdb
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\FinalExamStuff.csproj.AssemblyReference.cache
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\FinalExamStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\FinalExamStuff.AssemblyInfoInputs.cache
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\FinalExamStuff.AssemblyInfo.cs
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\FinalExamStuff.csproj.CoreCompileInputs.cache
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\FinalExamStuff.dll
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\refint\FinalExamStuff.dll
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\FinalExamStuff.pdb
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\FinalExamStuff.genruntimeconfig.cache
+C:\Users\Roli\source\repos\StackImplementation\FinalExamStuff\obj\Debug\net6.0\ref\FinalExamStuff.dll
